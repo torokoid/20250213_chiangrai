@@ -136,6 +136,8 @@ p.note { display: none; }
 <a href="20250213_005.JPG" target="_blank"><img src="20250213_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250213_006.JPG" target="_blank"><img src="20250213_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250213_007.JPG" target="_blank"><img src="20250213_007.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ここからしばらくは、宿泊した宿のベランダからの眺め</span></h2>
 <a href="20250213_008.JPG" target="_blank"><img src="20250213_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250213_009.JPG" target="_blank"><img src="20250213_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250213_010.JPG" target="_blank"><img src="20250213_010.JPG" alt="サンプル画像" width="900" /></a>
@@ -150,7 +152,7 @@ p.note { display: none; }
 <h2><span class="yellow">屋台に食材を運び込むお姉さん</span></h2>
 <a href="20250213_018.JPG" target="_blank"><img src="20250213_018.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">ここまでに画像は全て宿泊した宿のベランダからの撮影でした</span></h2>
+<h2><span class="yellow">ここまでの画像は全て宿泊した宿のベランダからの撮影でした</span></h2>
 <a href="20250213_019.JPG" target="_blank"><img src="20250213_019.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">宿からラオスの出国ゲートに向かいます</span></h2>
