@@ -254,9 +254,9 @@ p.note { display: none; }
     
 <h2><span class="yellow">街道沿いには昔の寺院跡</span></h2>
 <a href="20250213_069.JPG" target="_blank"><img src="20250213_069.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250213_070.JPG" target="_blank"><img src="20250213_070.JPG" alt="サンプル画像" width="900" /></a>
-    
+
 <h2><span class="yellow">3日振りに見るメーチャンの夕暮れ</span></h2>
+<a href="20250213_070.JPG" target="_blank"><img src="20250213_070.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250213_071.JPG" target="_blank"><img src="20250213_071.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250213_072.JPG" target="_blank"><img src="20250213_072.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250213_073.JPG" target="_blank"><img src="20250213_073.JPG" alt="サンプル画像" width="900" /></a>
