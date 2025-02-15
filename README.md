@@ -149,7 +149,7 @@ p.note { display: none; }
 <a href="20250213_016.JPG" target="_blank"><img src="20250213_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250213_017.JPG" target="_blank"><img src="20250213_017.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">屋台に食材を運び込むお姉さん</span></h2>
+<h2><span class="yellow">屋台に薪と食材を運び込むお姉さん</span></h2>
 <a href="20250213_018.JPG" target="_blank"><img src="20250213_018.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">ここまでの画像は全て宿泊した宿のベランダからの撮影でした</span></h2>
